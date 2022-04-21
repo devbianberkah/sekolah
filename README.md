@@ -1,2 +1,2 @@
 # sekolah
-Aplikasi flutter untuk manajemen sekolah
+Aplikasi flutter untuk manajemen sekolah ok
